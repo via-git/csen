@@ -1,4 +1,4 @@
-nginx:
-  image: nginx
+newkhan:
+  image: dorowu/ubuntu-desktop-lxde-vnc
   ports:
     - 8080:80
